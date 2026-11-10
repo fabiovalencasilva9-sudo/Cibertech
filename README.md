@@ -13,7 +13,6 @@ A Cibertech é uma empresa especializada no fornecimento de Wi-Fi e soluções d
 
 4.º Andar — TI, Datacenter e Diretoria (12 colaboradores): Abriga a infraestrutura crítica e o comando estratégico da Cibertech. Reúne o Datacenter principal, a equipe de TI interna encarregada da segurança da informação e a Diretoria Executiva responsável pela tomada de decisões. Essa distribuição permite organizar a rede Wi-Fi e a infraestrutura de TI da própria Cibertech com segmentação por níveis de acesso (VLANs distintas para cada andar), garantindo máxima segurança para o Datacenter e o NOC.
 
-# Redes > topologia
 
 
 
