@@ -1,7 +1,7 @@
-# PROJETO > CYBERTECH
-# RAMO DE ATUAÇÃO 
+# Projeto > Cybertech
+# Ramo de atuação 
 Provedora de Wifi e infraestrutura corporativa de conectividade.
-# PLANTA ESTRUTURAL
+# Planta estrutural
 A Cibertech é uma empresa especializada no fornecimento de Wi-Fi e soluções de conectividade corporativa. Atualmente, a empresa opera em uma sede própria estruturada em um prédio de quatro andares, contando com um time de 50 colaboradores distribuídos estrategicamente para garantir eficiência operacional, suporte ágil e governança de alto nível. A organização interna do prédio reflete o fluxo de trabalho e o nível de acesso da operação. 
  
 1º Andar — Atendimento ao Cliente e Central de Suporte (14 colaboradores): Funciona como a linha de frente da Cibertech. Equipes focadas no relacionamento, triagem, atendimento de chamados de nível 1 e canal direto de comunicação com os clientes. 
